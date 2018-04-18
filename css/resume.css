@@ -6,7 +6,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96; }
+  color: #e67e22; }
 
 @media (min-width: 992px) {
   body {
@@ -20,7 +20,7 @@ h4,
 h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   color: #343a40; }
 
